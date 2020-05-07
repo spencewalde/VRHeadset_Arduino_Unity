@@ -1,0 +1,13 @@
+This is the code I used to connect An Arduino (MEGA-2560) to Unity Engine.
+arduino version 1.8.12
+Unity 2019.3.12
+Uduino 3.1
+
+arduino mega 2560
+sparkfun lsm9ds1 breakout
+elegoo joystick
+
+libraries:
+sparkfunlsm9ds1.h
+uduino.h
+wire.h
