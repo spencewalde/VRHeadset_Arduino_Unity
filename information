@@ -8,6 +8,14 @@ sparkfun lsm9ds1 breakout
 elegoo joystick
 
 libraries:
-sparkfunlsm9ds1.h
-uduino.h
-wire.h
+    Arduino:
+        sparkfunlsm9ds1.h
+        uduino.h
+        wire.h
+        
+    C# || monodevelop:
+        using System.Collections;
+        using System.Collections.Generic;
+        using UnityEngine;
+        using Uduino;
+        using System;
