@@ -42,7 +42,7 @@ public class gyroscope : MonoBehaviour
     }
 
 }
-
+//joystick controls 
         //xpos = UduinoManager.Instance.analogRead(AnalogPin.A0, "PinRead");
        // zpos = UduinoManager.Instance.analogRead(AnalogPin.A1, "PinRead");
         /*
